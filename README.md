@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>Hey there! I’m a curious mind who loves building, breaking, and occasionally fixing things with code.<br>If you’re into thoughtful tech, creative chaos, or just wandering through cool ideas — you’re in the right place.<br><br>✨ Poke around my repos to see what I’ve been up to!<br><br>
+Hey there! I’m a curious mind who loves building, breaking, and occasionally fixing things with code.<br>If you’re into thoughtful tech, creative chaos, or just wandering through cool ideas — you’re in the right place.<br><br>✨ Poke around my repos to see what I’ve been up to!<br><br>
 
 
 ## 🌐 Socials:
